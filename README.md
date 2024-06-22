@@ -1,1 +1,1 @@
-My retro-themed website made to test my design skills, not programming skills. Will be updated periodically.
+My retro-themed website made mainly to test my user interface design skills rather than programming skills. Will be updated periodically.
